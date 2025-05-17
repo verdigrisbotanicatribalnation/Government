@@ -1,0 +1,57 @@
+# Rewrite main README.md with explicit declaration of public, active, true, and notorious ledger status
+revised_main_readme = """# Verdigris Botanica Tribal Nation - Government Ledger
+
+**Sovereign Public Ledger — Active, True, and Notorious Record of the Tribal Government**
+
+This repository constitutes the **official public record** of the Verdigris Botanica Tribal Nation. It is the **true and notorious ledger** of all legal, administrative, and ceremonial actions taken under our sovereign authority, treaty trust obligations, and sacred stewardship of the land.
+
+## Ledger Characteristics
+
+- **Public & Active**: This repository is actively maintained as a live, timestamped, and transparent source of truth.
+- **True & Notorious**: All entries are recorded in public view, under our sovereign signature and full notice to the world.
+- **Transparent & Auditable**: All public entries are open for anyone to verify and review. External parties are invited to **audit** the chain of communications and trust.
+- **Private with Proof**: Some entries are retained in private trust; their existence may be verified cryptographically or by tribal authority upon lawful request.
+
+## Ledger Structure
+
+- `ledger/contracts/` — Treaty documents, sovereign compacts, legal agreements
+- `ledger/grants/` — Applications, awards, and stewardship of funds
+- `ledger/legal/` — Court actions, filings, sovereignty assertions
+- `ledger/communications/` — Letters, USPS/FEMA correspondences, external notices
+- `ledger/publications/` — Community announcements, press releases
+- `ledger/records/YYYY-MM-DD/` — Daily records of tribal operations
+- `ledger/private/` — Protected and confidential records (restricted)
+
+## Statement of Custody
+
+All entries are preserved under sovereign custody by the rightful stewards of this land. These digital declarations extend our ancestral stewardship into the present and future, fulfilling obligations of care, truth, and accountability.
+
+"""
+
+readme_path.write_text(revised_main_readme)
+
+# Add/update private folder and its README
+private_dir = base_dir / "ledger/private"
+private_dir.mkdir(parents=True, exist_ok=True)
+private_readme = private_dir / "README.md"
+private_readme.write_text(
+    "# Private Records\n\nThis folder contains records that are restricted, confidential, or under tribal seal.\n\n"
+    "Their existence is acknowledged, and their integrity is assured by internal processes. "
+    "Records may be made accessible by official tribal request or legal process. "
+    "Public verifiers may confirm their cryptographic presence in the audit trail."
+)
+
+# Regenerate README.md content for other folders with transparency notes
+for path, content in ledger_structure.items():
+    folder_path = base_dir / path
+    readme_file = folder_path / "README.md"
+    enhanced_content = (
+        f"# {Path(path).name.capitalize()}\n\n{content}\n\n"
+        "**Transparency Notice:** This folder contains public ledger entries unless otherwise marked. "
+        "All entries are timestamped and subject to tribal audit or verification. Private records, if any, are acknowledged separately."
+    )
+    readme_file.write_text(enhanced_content)
+
+# Recreate ZIP with all updated files
+shutil.make_archive("/mnt/data/Government", 'zip', base_dir)
+"/mnt/data/Government.zip"
