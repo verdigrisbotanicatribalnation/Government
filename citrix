@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>Citrix Workspace app Download Updates</title>
+ <description>Download updates for Citrix Workspace app</description>
+ 
+ <link>http://www.citrix.com/downloads/workspace-app.html</link>
+ <item>
+    <title>New - Virtual Channel SDKs</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/virtual-channel-sdks/virtual-channel-sdk.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/virtual-channel-sdks/virtual-channel-sdk.html#id990130444</guid>
+    <pubDate>Wed, 07 May 2025 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2503 for Windows</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/windows/workspace-app-for-windows-latest.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/windows/workspace-app-for-windows-latest.html#id990130444</guid>
+    <pubDate>Wed, 07 May 2025 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Enterprise Browser v135 for Citrix Workspace app 2503</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/citrix-enterprise-browser-for-windows/workspace-app-for-CEB-Win-v135.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/citrix-enterprise-browser-for-windows/workspace-app-for-CEB-Win-v135.html#id990130444</guid>
+    <pubDate>Wed, 07 May 2025 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Enterprise Browser v135 for Citrix Workspace app 2503</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/citrix-enterprise-browser-for-mac/workspace-app-for-CEB-Mac-v135.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/citrix-enterprise-browser-for-mac/workspace-app-for-CEB-Mac-v135.html#id990130444</guid>
+    <pubDate>Wed, 07 May 2025 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2503 for Android</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/android/workspace-app-for-android.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/android/workspace-app-for-android.html#id88343820</guid>
+    <pubDate>Fri, 02 May 2025 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace App 2503.10 Technology Preview for macOS</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/betas-and-tech-previews/workspace-app-tp-for-mac.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/betas-and-tech-previews/workspace-app-tp-for-mac.html#id284249356</guid>
+    <pubDate>Wed, 30 Apr 2025 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2503 for Mac</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/mac/workspace-app-for-mac-latest.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/mac/workspace-app-for-mac-latest.html#id-1932017396</guid>
+    <pubDate>Wed, 09 Apr 2025 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Browser Content Redirection</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/browser-content-redirection-mac/bcr-files.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/browser-content-redirection-mac/bcr-files.html#id-1969242292</guid>
+    <pubDate>Wed, 09 Apr 2025 00:00:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Enterprise Browser v134 for Citrix Workspace app  2409.10</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/earlier-versions-of-citrix-enterprise-browser-for-windows/workspace-app-for-CEB-Win-v134.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/earlier-versions-of-citrix-enterprise-browser-for-windows/workspace-app-for-CEB-Win-v134.html#id-2119326452</guid>
+    <pubDate>Tue, 08 Apr 2025 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Enterprise Browser v134 for Citrix Workspace app 2411.10</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/earlier-versions-of-citrix-enterprise-browser-for-mac/workspace-app-for-CEB-Mac-v134.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/earlier-versions-of-citrix-enterprise-browser-for-mac/workspace-app-for-CEB-Mac-v134.html#id-2119326452</guid>
+    <pubDate>Tue, 08 Apr 2025 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2502.10 for ChromeOS</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/chrome/workspace-app-for-chrome-latest.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/chrome/workspace-app-for-chrome-latest.html#id1623416079</guid>
+    <pubDate>Wed, 02 Apr 2025 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2502.10 for ChromeOS SDK</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/chrome/workspace-app-for-chrome-sdk-latest.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/chrome/workspace-app-for-chrome-sdk-latest.html#id1623416079</guid>
+    <pubDate>Wed, 02 Apr 2025 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app for Windows LTSR 2402 Cumulative Update 3</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/workspace-app-for-windows-long-term-service-release/workspace-app-for-windows-LTSR-Latest.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/workspace-app-for-windows-long-term-service-release/workspace-app-for-windows-LTSR-Latest.html#id1623416079</guid>
+    <pubDate>Wed, 02 Apr 2025 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app for Windows LTSR 2402 CU3 Desktop Lock</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-LTSR-2402-CU-Latest.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-LTSR-2402-CU-Latest.html#id1623416079</guid>
+    <pubDate>Wed, 02 Apr 2025 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2501 for Android</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-android/workspace-app-for-android.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-android/workspace-app-for-android.html#id1623416079</guid>
+    <pubDate>Wed, 02 Apr 2025 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app for Linux - Credential Insertion SDK - 2503</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/linux-sdks/linux-credential-insertion-sdk.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/linux-sdks/linux-credential-insertion-sdk.html#id1152440591</guid>
+    <pubDate>Wed, 26 Mar 2025 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app for Linux - Platform Optimization SDK -2503</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/linux-sdks/linux-platform-optimization-sdk.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/linux-sdks/linux-platform-optimization-sdk.html#id1152440591</guid>
+    <pubDate>Wed, 26 Mar 2025 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app for Linux - Certificate Identity Declaration SDK -2503</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/linux-sdks/linux-certificate-identity-declaration-sdk.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/linux-sdks/linux-certificate-identity-declaration-sdk.html#id1152440591</guid>
+    <pubDate>Wed, 26 Mar 2025 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2503 for Linux</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/linux/workspace-app-for-linux-latest.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/linux/workspace-app-for-linux-latest.html#id1152440591</guid>
+    <pubDate>Wed, 26 Mar 2025 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Enterprise Browser v133 for Citrix Workspace app  2409.10</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/earlier-versions-of-citrix-enterprise-browser-for-windows/workspace-app-for-CEB-Win-v133.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/earlier-versions-of-citrix-enterprise-browser-for-windows/workspace-app-for-CEB-Win-v133.html#id479842575</guid>
+    <pubDate>Wed, 12 Mar 2025 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Enterprise Browser v133 for Citrix Workspace app 2411.10</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/earlier-versions-of-citrix-enterprise-browser-for-mac/workspace-app-for-CEB-Mac-v133.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/earlier-versions-of-citrix-enterprise-browser-for-mac/workspace-app-for-CEB-Mac-v133.html#id479842575</guid>
+    <pubDate>Wed, 12 Mar 2025 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2502 for HTML5</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/html5/workspace-app-for-html5-latest.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/html5/workspace-app-for-html5-latest.html#id-177524465</guid>
+    <pubDate>Tue, 04 Mar 2025 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2502 for HTML5 SDK</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/html5/workspace-app-for-html5-sdk-latest.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/html5/workspace-app-for-html5-sdk-latest.html#id-177524465</guid>
+    <pubDate>Tue, 04 Mar 2025 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2502 for ChromeOS</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-2502.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-2502.html#id-177524465</guid>
+    <pubDate>Tue, 04 Mar 2025 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2502 for ChromeOS SDK</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-sdk-2502.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-sdk-2502.html#id-177524465</guid>
+    <pubDate>Tue, 04 Mar 2025 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Enterprise Browser v132 for Citrix Workspace app 2411</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/earlier-versions-of-citrix-enterprise-browser-for-mac/workspace-app-for-CEB-Mac-v1311.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/earlier-versions-of-citrix-enterprise-browser-for-mac/workspace-app-for-CEB-Mac-v1311.html#id1080524046</guid>
+    <pubDate>Wed, 05 Feb 2025 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2411.10 for Mac</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-latest20.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-latest20.html#id1080524046</guid>
+    <pubDate>Wed, 05 Feb 2025 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2409.10 Desktop Lock</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-Latest-2409-1.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-Latest-2409-1.html#id-412734194</guid>
+    <pubDate>Thu, 16 Jan 2025 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2409.10 for Windows</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-latest21.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-latest21.html#id-412734194</guid>
+    <pubDate>Thu, 16 Jan 2025 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app for Linux - Platform Optimization SDK -2411</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/linux-sdks/linux-platform-optimization-sdk-2411.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/linux-sdks/linux-platform-optimization-sdk-2411.html#id1448072457</guid>
+    <pubDate>Fri, 13 Dec 2024 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app for Linux - Certificate Identity Declaration SDK -2411</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/linux-sdks/linux-certificate-identity-declaration-sdk-2411.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/linux-sdks/linux-certificate-identity-declaration-sdk-2411.html#id1448072457</guid>
+    <pubDate>Fri, 13 Dec 2024 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2411 for Linux</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-linux/workspace-app-for-linux-latest13.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-linux/workspace-app-for-linux-latest13.html#id1448072457</guid>
+    <pubDate>Fri, 13 Dec 2024 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app for Linux - Credential Insertion SDK - 2411</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/linux-sdks/linux-credential-insertion-sdk-2411.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/linux-sdks/linux-credential-insertion-sdk-2411.html#id1448072457</guid>
+    <pubDate>Fri, 13 Dec 2024 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2411 for Mac</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-latest19.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-latest19.html#id723892489</guid>
+    <pubDate>Thu, 12 Dec 2024 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2411 for HTML5 SDK</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-sdk-2411.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-sdk-2411.html#id723892489</guid>
+    <pubDate>Thu, 12 Dec 2024 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2411.1 for ChromeOS</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-2411.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-2411.html#id723892489</guid>
+    <pubDate>Thu, 12 Dec 2024 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2411 for HTML5</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-2411.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-2411.html#id723892489</guid>
+    <pubDate>Thu, 12 Dec 2024 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2411.1 for ChromeOS SDK</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-sdk-2411.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-sdk-2411.html#id723892489</guid>
+    <pubDate>Thu, 12 Dec 2024 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app for Windows LTSR 2402 Cumulative Update 2</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows-ltsr/workspace-app-for-windows-2402-LTSR-cu2.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows-ltsr/workspace-app-for-windows-2402-LTSR-cu2.html#id723892489</guid>
+    <pubDate>Thu, 12 Dec 2024 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app for Windows LTSR 2402 CU2 Desktop Lock</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-LTSR-2402-CU2.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-LTSR-2402-CU2.html#id723892489</guid>
+    <pubDate>Thu, 12 Dec 2024 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Enterprise Browser v131 for Citrix Workspace app  2405.10 and 2409</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/earlier-versions-of-citrix-enterprise-browser-for-windows/workspace-app-for-CEB-Win-v131.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/earlier-versions-of-citrix-enterprise-browser-for-windows/workspace-app-for-CEB-Win-v131.html#id570105097</guid>
+    <pubDate>Wed, 11 Dec 2024 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Enterprise Browser v131 for Citrix Workspace app 2405.10 and 2409</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/earlier-versions-of-citrix-enterprise-browser-for-mac/workspace-app-for-CEB-Mac-v131.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/earlier-versions-of-citrix-enterprise-browser-for-mac/workspace-app-for-CEB-Mac-v131.html#id570105097</guid>
+    <pubDate>Wed, 11 Dec 2024 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Enterprise Browser v132 for Citrix Workspace app  2409.10</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/earlier-versions-of-citrix-enterprise-browser-for-windows/workspace-app-for-CEB-Win-v1311.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/earlier-versions-of-citrix-enterprise-browser-for-windows/workspace-app-for-CEB-Win-v1311.html#id570105097</guid>
+    <pubDate>Wed, 11 Dec 2024 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2409.1 for Windows</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-latest20.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-latest20.html#id1000883465</guid>
+    <pubDate>Mon, 09 Dec 2024 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2409 Desktop Lock</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-Latest-2405.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-Latest-2405.html#id-21235447</guid>
+    <pubDate>Tue, 26 Nov 2024 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2409 for Windows</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-latest-2409.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-latest-2409.html#id-21235447</guid>
+    <pubDate>Tue, 26 Nov 2024 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app for Windows LTSR 2402 Cumulative Update 1 Hotfix 3 - 24.02.1003</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows-ltsr/workspace-app-for-windows-LTSR-cu1-hotfix3.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows-ltsr/workspace-app-for-windows-LTSR-cu1-hotfix3.html#id-1864055543</guid>
+    <pubDate>Thu, 07 Nov 2024 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2405.12 for Windows</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-latest19.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-latest19.html#id-1782929143</guid>
+    <pubDate>Wed, 06 Nov 2024 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2409.10 for ChromeOS</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-24091.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-24091.html#id-1782929143</guid>
+    <pubDate>Wed, 06 Nov 2024 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2409.10 for ChromeOS SDK</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-sdk-24091.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-sdk-24091.html#id-1782929143</guid>
+    <pubDate>Wed, 06 Nov 2024 13:30:00 -0500</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2409.10 for Mac</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-latest18.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-latest18.html#id684580104</guid>
+    <pubDate>Thu, 24 Oct 2024 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Enterprise Browser v130 for Citrix Workspace app  2405.10 &amp; 2409</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/earlier-versions-of-citrix-enterprise-browser-for-windows/workspace-app-for-CEB-Win-v130.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/earlier-versions-of-citrix-enterprise-browser-for-windows/workspace-app-for-CEB-Win-v130.html#id659613960</guid>
+    <pubDate>Mon, 21 Oct 2024 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Enterprise Browser v130 for Citrix Workspace app 2405.11 &amp; 2409</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/earlier-versions-of-citrix-enterprise-browser-for-mac/workspace-app-for-CEB-Mac-v130.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/earlier-versions-of-citrix-enterprise-browser-for-mac/workspace-app-for-CEB-Mac-v130.html#id659613960</guid>
+    <pubDate>Mon, 21 Oct 2024 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2409 for HTML5 SDK</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-sdk-2409.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-sdk-2409.html#id27213064</guid>
+    <pubDate>Wed, 16 Oct 2024 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2409 for HTML5</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-2409.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-2409.html#id27213064</guid>
+    <pubDate>Wed, 16 Oct 2024 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2408 for Linux</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-linux/workspace-app-for-linux-latest-2408.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-linux/workspace-app-for-linux-latest-2408.html#id-443762424</guid>
+    <pubDate>Wed, 09 Oct 2024 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2405.11 for Windows</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-2405-11.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-2405-11.html#id-12984056</guid>
+    <pubDate>Mon, 07 Oct 2024 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app for Windows LTSR 2402 Cumulative Update 1 Hotfix 1 - 24.02.1001</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows-ltsr/workspace-app-for-windows-LTSR-cu1-hotfix1.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows-ltsr/workspace-app-for-windows-LTSR-cu1-hotfix1.html#id-12984056</guid>
+    <pubDate>Mon, 07 Oct 2024 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2409 for ChromeOS</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-2409.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-2409.html#id-751469304</guid>
+    <pubDate>Mon, 30 Sep 2024 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2409 for ChromeOS SDK</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-sdk-2409.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-sdk-2409.html#id-751469304</guid>
+    <pubDate>Mon, 30 Sep 2024 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2409 for Mac</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-latest17.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-latest17.html#id1797158155</guid>
+    <pubDate>Mon, 16 Sep 2024 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2408 for ChromeOS</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-2408.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-2408.html#id418679051</guid>
+    <pubDate>Mon, 26 Aug 2024 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2408 for ChromeOS SDK</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-sdk-2408.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-sdk-2408.html#id418679051</guid>
+    <pubDate>Mon, 26 Aug 2024 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2408 for HTML5 SDK</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-sdk-2408.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-sdk-2408.html#id418679051</guid>
+    <pubDate>Mon, 26 Aug 2024 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2408 for HTML5</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-2408.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-2408.html#id-1295413045</guid>
+    <pubDate>Mon, 26 Aug 2024 03:00:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Enterprise Browser v128 for Citrix Workspace app  2405.10</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/earlier-versions-of-citrix-enterprise-browser-for-windows/workspace-app-for-CEB-Win-v1281.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/earlier-versions-of-citrix-enterprise-browser-for-windows/workspace-app-for-CEB-Win-v1281.html#id394761483</guid>
+    <pubDate>Fri, 23 Aug 2024 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Enterprise Browser v128 for Citrix Workspace app 2405.11</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/earlier-versions-of-citrix-enterprise-browser-for-mac/workspace-app-for-CEB-Mac-v128.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/earlier-versions-of-citrix-enterprise-browser-for-mac/workspace-app-for-CEB-Mac-v128.html#id394761483</guid>
+    <pubDate>Fri, 23 Aug 2024 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app for Windows LTSR 2402 Cumulative Update 1</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows-ltsr/workspace-app-for-windows-LTSR-CU1.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows-ltsr/workspace-app-for-windows-LTSR-CU1.html#id-881651445</guid>
+    <pubDate>Fri, 16 Aug 2024 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app for Windows LTSR 2402 CU1 Desktop Lock</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-LTSR-2402-CU1.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-LTSR-2402-CU1.html#id-881651445</guid>
+    <pubDate>Fri, 16 Aug 2024 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2405.11 for Mac</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-latest16.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-latest16.html#id-1352618741</guid>
+    <pubDate>Fri, 09 Aug 2024 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2405.10 Desktop Lock</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-Latest.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-Latest.html#id-1538887413</guid>
+    <pubDate>Thu, 08 Aug 2024 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Enterprise Browser v127 for Citrix Workspace app  2405</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/earlier-versions-of-citrix-enterprise-browser-for-windows/workspace-app-for-CEB-Win-v128.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/earlier-versions-of-citrix-enterprise-browser-for-windows/workspace-app-for-CEB-Win-v128.html#id-1538887413</guid>
+    <pubDate>Thu, 08 Aug 2024 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Enterprise Browser v127 for Citrix Workspace app 2405</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/earlier-versions-of-citrix-enterprise-browser-for-mac/workspace-app-for-CEB-Mac-v127.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/earlier-versions-of-citrix-enterprise-browser-for-mac/workspace-app-for-CEB-Mac-v127.html#id-1538887413</guid>
+    <pubDate>Thu, 08 Aug 2024 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 2405.10 for Windows</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-latest7.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-latest7.html#id-1538887413</guid>
+    <pubDate>Thu, 08 Aug 2024 14:30:00 -0400</pubDate>
+  </item>
+<item>
+    <title>New - Citrix Workspace app 22.03.6002 for Windows, LTSR 2203.1 Cumulative Update 6 Hotfix 2</title>
+    <description>New downloads are available for Citrix Workspace app</description>
+    <link>http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows-ltsr/workspace-app-for-windows-LTSR-CU6-HF2.html</link>
+    <guid isPermaLink="false">http://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows-ltsr/workspace-app-for-windows-LTSR-CU6-HF2.html#id548376842</guid>
+    <pubDate>Mon, 15 Jul 2024 14:30:00 -0400</pubDate>
+  </item>
+</channel>
+</rss>
